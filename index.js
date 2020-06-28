@@ -6,9 +6,8 @@ const {
 } = require('./lib');
 
 module.exports = {
+  hash,
   errors,
   formatPhoneNumber,
-  createHash: hash.create,
-  randomHash: hash.random,
   TransformatorData: EncryptAndDecryptService
 };

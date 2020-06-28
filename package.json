@@ -1,6 +1,6 @@
 {
   "name": "utilities-armnode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "dependencies": {
     "crypto-json": "^2.0.2",
     "google-libphonenumber": "^3.2.10",
-    "uuid": "^8.1.0"
+    "uuidv4": "^6.1.1"
   }
 }
