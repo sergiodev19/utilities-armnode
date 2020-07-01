@@ -1,5 +1,6 @@
 const {
   hash,
+  Timer,
   errors,
   formatPhoneNumber,
   EncryptAndDecryptService
@@ -7,6 +8,7 @@ const {
 
 module.exports = {
   hash,
+  Timer,
   errors,
   formatPhoneNumber,
   TransformatorData: EncryptAndDecryptService

@@ -23,6 +23,7 @@
   "dependencies": {
     "crypto-json": "^2.0.2",
     "google-libphonenumber": "^3.2.10",
+    "moment": "^2.27.0",
     "uuidv4": "^6.1.1"
   }
 }
